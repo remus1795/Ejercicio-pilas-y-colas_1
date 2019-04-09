@@ -1,1 +1,2 @@
-# Ejercicio-pilas-y-colas_1
+# ejemplo de pilas y colas
+Alejandro Daza para ciencias 3
